@@ -4,11 +4,13 @@
   "description": "",
   "main": "",
   "scripts": {
-    "test": "jest --passWithNoTests"
+    "start": "nodemon server.js"
   },
   "author": "AltCampus",
   "license": "GNU GPL V3",
   "dependencies": {
-    "jest": "^26.0.1"
+    "express": "^4.17.1",
+    "jest": "^26.0.1",
+    "socket.io": "^4.1.2"
   }
 }
