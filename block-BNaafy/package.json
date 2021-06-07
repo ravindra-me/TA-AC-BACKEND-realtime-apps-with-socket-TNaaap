@@ -1,0 +1,16 @@
+{
+  "name": "altcampus-assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "AltCampus",
+  "license": "GNU GPL V3",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jest": "^26.0.1",
+    "socket.io": "^4.1.2"
+  }
+}
